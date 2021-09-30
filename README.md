@@ -1,5 +1,5 @@
 # Number-to-Word-Converter
-![temp](https://user-images.githubusercontent.com/75497349/135271263-18a0ec1b-ae7c-43c9-98b7-fc1eaa400d99.PNG)
+![temp](https://user-images.githubusercontent.com/75497349/135377599-7e0f599a-eeb7-4b20-912e-344becc0d468.PNG)
 **Language:** Java
 
 **Description**
