@@ -4,5 +4,5 @@
 
 **Description**
 ---
-A CLI-based Number-to-Word Converter with the capaibility of converting with no larger than 9.222 Quintillion (Qi).
+A CLI-based Number-to-Word Converter with the capaibility of converting a maximum range of 10^3003 digits.
 
